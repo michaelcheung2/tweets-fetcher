@@ -1,8 +1,10 @@
-# Overview (last updated: 7/4/2018)
-* This documentation contains instructions on how to run a command line interface that pulls 2 years of tweets (2016 to 2017) using a client's REST API. The results are parsed and saved to a text file.
+# TweetsFetcherRepo (last updated: 7/4/2018)
 
 ## Author
-* Michael Cheung
+Michael Cheung
+
+## Overview 
+This documentation contains instructions on how to run a command line interface that pulls 2 years of tweets (2016 to 2017) using a client's REST API. The results are parsed and saved to a text file.
 
 ## Prerequisites
 * Windows OS

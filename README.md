@@ -15,8 +15,9 @@
 ```
 cd C:\TweetsFetcherProject
 ```
-- Run the application by typing:
+3. Type "npm install request" to install the request module.
+4. Run the application by typing:
 ```
 node cliapp
 ```
-3. Open tweetsresults.txt to view all fetched tweets.
+5. Open tweetsresults.txt to view all fetched tweets.

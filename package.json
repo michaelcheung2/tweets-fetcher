@@ -1,0 +1,15 @@
+{
+  "name": "tweetsfetcherproject",
+  "version": "1.0.0",
+  "description": "Gets curated tweets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}

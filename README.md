@@ -1,4 +1,4 @@
-# TweetsFetcherRepo (last updated: 7/4/2018)
+# tweets-fetcher (last updated: 7/4/2018)
 
 ## Author
 Michael Cheung

@@ -1,4 +1,4 @@
-# tweets-fetcher (last updated: 7/4/2018)
+# tweets-fetcher
 
 ## Author
 Michael Cheung
